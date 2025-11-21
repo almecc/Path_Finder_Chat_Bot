@@ -1,0 +1,84 @@
+# ========================================
+# Python
+# ========================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dll
+
+# ========================================
+# Virtual Environment
+# ========================================
+.venv/
+venv/
+ENV/
+env/
+*.env
+.env
+
+# ========================================
+# Streamlit
+# ========================================
+.streamlit/
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# ========================================
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# ========================================
+# VS Code
+.vscode/
+
+# ========================================
+# PyCharm
+.idea/
+*.iml
+
+# ========================================
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.bak
+*.tmp
+
+# ========================================
+# Environment Variables or Sensitive Info
+.env.*
+
+# ========================================
+# Coverage & Test Reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.test
+
+# ========================================
+# Miscellaneous
+*.swp
+*.swo
+*.orig
+*.~lock.*#
