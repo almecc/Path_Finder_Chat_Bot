@@ -1,4 +1,4 @@
-#  Career Guidance Chatbot – Personalized AI Career Suggestions Using Gemini API
+#  Career Path Guidance Chatbot – Personalized AI Career Suggestions Using Gemini API
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b)
@@ -7,7 +7,7 @@
 
 ## 🚀 Overview
 
-**Career Guidance Chatbot** is a Generative AI-powered [Streamlit](https://streamlit.io/) web app developed during the **GenAI Foundation Program**. It helps users explore personalized, future-ready career options based on their **skills, interests, and education background** using Google’s **Gemini 2.0 Flash API**. Ideal for students, professionals, or anyone exploring new career paths.
+**Career Path Guidance Chatbot** is a Generative AI-powered [Streamlit](https://streamlit.io/) web app developed during the **GenAI Foundation Program**. It helps users explore personalized, future-ready career options based on their **skills, interests, and education background** using Google’s **Gemini 2.0 Flash API**. Ideal for students, professionals, or anyone exploring new career paths.
 
 ## ✨ Key Features
 
@@ -40,8 +40,8 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/jeevandeepsaini/CareerGuidanceChatBot.git
-   cd CareerGuidanceChatBot
+   git clone https://github.com/almecc/Path_Finder_Chat_Bot.git
+   cd Path_Finder_Chat_Bot
    ```
 2. Create and activate a virtual environment:
    ```sh
